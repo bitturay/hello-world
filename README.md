@@ -1,2 +1,3 @@
 # hello-world
-just for learning
+
+I am Bittu Ray

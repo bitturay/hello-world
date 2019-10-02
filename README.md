@@ -11,4 +11,4 @@ this commitment has been done by forking method
 this is the latest
 =======
 
-and now this has been done by bittu r
+and now this has been done by bittu ray
